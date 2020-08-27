@@ -1,4 +1,8 @@
-## Hi! I'm Rodri!
+
+
+## Hi! I'm Rodri! ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/hi%20.jpeg)
+
+
 
 *Since 2012 I have been studding software development.
 After finish my first Technical Certificate, I started work as Android and IOS developer.
@@ -54,9 +58,9 @@ This year I had finish my third Technical Certificate
  * Network Administration (2018 - 2020)
  
 For final project to conclude my certification, I've built:
- * A C written billing app - [Download source code]()
- * A Android Game that I called Rodrik's Cube - [Donwload APK]()
- * A web store made with raw PHP and JS, HTML5, CSS and Boostrap  - [Download source code]()
+ * A C written billing app - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/FacturacionPlus.zip)
+ * A Android Game that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
+ * A web store made with raw PHP and JS, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
  * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and a show the whole project.
 
 
