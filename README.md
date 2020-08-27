@@ -18,7 +18,7 @@ But now, I am going back to my roots, mobile software development. Of course I'm
 
 ### 🔭  I’m currently working on...
 
- Migrate a Paragling Weather App from Android to IOS
+ Migrate Tolomet, a Paragling Weather App from Android to IOS
  
  Create my on IOS Resume Apps
  
@@ -60,8 +60,8 @@ This year I had finish my third Technical Certificate
  
 As final project to conclude my certification, I had built:
  * A C written billing app - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/FacturacionPlus.zip)
- * A Android Ggame that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
- * A web store made with "vanilla" PHP and JS, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
+ * A Android game that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
+ * A web store made with "vanilla" PHP, JavaScript, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
  * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and I will show you the whole project!
 
 
