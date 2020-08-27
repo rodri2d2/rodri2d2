@@ -62,7 +62,7 @@ For final project to conclude my certification, I've built:
  * A C written billing app - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/FacturacionPlus.zip)
  * A Android Game that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
  * A web store made with raw PHP and JS, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
- * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and a show the whole project.
+ * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and I will show you the whole project!
 
 
 I currently speak 4 languages :gb:  :es:  :fr: 🤔 hummm... theres no brazilian portuguese emoji?
