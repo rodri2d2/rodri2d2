@@ -18,20 +18,27 @@
 -->
 ---
 
-### Languages and Tools:
+### Some languages I have coded in:
 
 [<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>]()
 [<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]()
-[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/css3.png"/>]()
 [<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>]()
+
+[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>]() 🤔 It is a programming language?
+
+
+### Some technologies I have worked with:
+
 [<img src="https://img.icons8.com/color/48/000000/xcode.png"/>]()
 [<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>]()
 [<img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>]()
 [<img src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>]()
-[<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>]()
+
+
+[<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>]()😄 Yes! This is MS Excel and is quite funny to work with!!
 
 
 
