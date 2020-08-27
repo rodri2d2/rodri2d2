@@ -23,7 +23,7 @@ But now, I am going back to my roots, mobile software development. Of course I'm
  
 ---
 
-### 🌱  I’m currently learning... 
+### 🌱  I’m currently learning... ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/study.jpeg)
 
 I'd like to say everythinkg but is not true. 
 
@@ -34,7 +34,7 @@ I'm starting things over and I'm definetely focus on IOS.
 
 ---
 
-### 👯  I’m looking to collaborate on ...
+### 👯  I’m looking to collaborate on ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/think.jpeg)
 
 Any project!
 
@@ -50,7 +50,7 @@ I'd like to help in any project related with IOS.
 -->
 
 
-### ⚡ Fun fact: ...
+### ⚡ Fun fact: ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/fun2.jpeg)
 
 This year I had finish my third Technical Certificate 
  * Multiplatform Software Development Certificate (2012 - 2014)
@@ -75,7 +75,7 @@ My favorite sport is paragliding. [Chechout my Instagram profile](https://www.in
 
 ---
 
-### :computer:  :hammer:  Some languages and technologies I have work with
+### :computer:  :hammer:  Some languages and technologies I have work with ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/fun.jpeg)
 
 [<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>]()
 [<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>]()
