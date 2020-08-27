@@ -8,12 +8,13 @@
 After finish my first Technical Certificate, I started work as Android and IOS developer.
 This little job as mobile developer tooks me to something different. Since than, I had worked in other projects and companies that help me improve some skills not only on software development, but also in another computers domains such as Networking, Linux and why not say it: MS Excel, which I don't master it yet but is a great tool to work with.
 But now, I am going back to my roots, mobile software development. Of course I'm not closed to different views. However let get focus on Mobile.*
-<!--
+
 [![alt text][1.1]](www.linkedin.com/in/rodricandido)
 [![alt text][2.1]](https://www.instagram.com/rodri2d2/)
 [![alt text][3.1]](https://500px.com/p/rodrigoadelinocandido)
--->
 
+
+---
 
 ### 🔭  I’m currently working on...
 
@@ -64,7 +65,7 @@ For final project to conclude my certification, I've built:
  * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and a show the whole project.
 
 
-I currently speak 4 languages :gb:  :es:  :fr: 🤔 hummm... theres no brazilian portuguese icon?
+I currently speak 4 languages :gb:  :es:  :fr: 🤔 hummm... theres no brazilian portuguese emoji?
 
 I like photos and sometimes I do shot some. [Checkout my 500px profile](https://500px.com/p/rodrigoadelinocandido)
 
