@@ -58,10 +58,10 @@ This year I had finish my third Technical Certificate
  * Web Develoment Certificate (2015)
  * Network Administration (2018 - 2020)
  
-For final project to conclude my certification, I've built:
+As final project to conclude my certification, I had built:
  * A C written billing app - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/FacturacionPlus.zip)
- * A Android Game that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
- * A web store made with raw PHP and JS, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
+ * A Android Ggame that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
+ * A web store made with "vanilla" PHP and JS, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
  * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and I will show you the whole project!
 
 
@@ -69,7 +69,7 @@ I currently speak 4 languages :gb:  :es:  :fr: 🤔 hummm... theres no brazilian
 
 I like photos and sometimes I do shot some. [Checkout my 500px profile](https://500px.com/p/rodrigoadelinocandido)
 
-My favorite sport is paragliding. [Chechout my Instagram profile](https://www.instagram.com/rodri2d2/)
+My favorite sport is paragliding. [Checkout my Instagram profile](https://www.instagram.com/rodri2d2/)
 
 
 
