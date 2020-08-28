@@ -5,7 +5,8 @@
 
 
 *Since 2012 I have been studding software development. After finish my first Technical Certificate, I started work as Android and IOS developer. This little job as mobile developer took me to something different. Since than, I had worked on some projects and companies that help me improve my skills not only, on software development and other computers domains, such as, Networking, Linux and why not say it, MS Excel, which I don't master it yet but is a great tool to work with. Moreover,  these experiences gave me the comprehension of how companies work, deal with hard dead lines, service quality and how to really work well with my co-workers. 
-But now, I am going back to my roots, mobile software development. Of course I'm not closed to different views. However let get focus on Mobile.*
+But now, I am going back to my roots. Of course I'm not closed to different views and job opportunities. 
+However, I'd like to focus on mobile development.*
 
 [![alt text][1.1]](https://www.linkedin.com/in/rodricandido)
 [![alt text][2.1]](https://www.instagram.com/rodri2d2/)
