@@ -4,9 +4,7 @@
 
 
 
-*Since 2012 I have been studding software development.
-After finish my first Technical Certificate, I started work as Android and IOS developer.
-This little job as mobile developer tooks me to something different. Since than, I had worked in other projects and companies that help me improve some skills not only on software development, but also in another computers domains such as Networking, Linux and why not say it: MS Excel, which I don't master it yet but is a great tool to work with.
+*Since 2012 I have been studding software development. After finish my first Technical Certificate, I started work as Android and IOS developer. This little job as mobile developer took me to something different. Since than, I had worked on some projects and companies that help me improve my skills not only, on software development and other computers domains, such as, Networking, Linux and why not say it, MS Excel, which I don't master it yet but is a great tool to work with. Moreover,  these experiences gave me the comprehension of how companies work, deal with hard dead lines, service quality and how to really work well with my co-workers. 
 But now, I am going back to my roots, mobile software development. Of course I'm not closed to different views. However let get focus on Mobile.*
 
 [![alt text][1.1]](https://www.linkedin.com/in/rodricandido)
@@ -16,30 +14,32 @@ But now, I am going back to my roots, mobile software development. Of course I'm
 
 ---
 
-### 🔭  I’m currently working on...
+### :coffee:  I’m currently working on...
 
- Migrate Tolomet, a Paragling Weather App from Android to IOS
+ Migrate Tolomet, a paragling weather app from Android to IOS
  
  Create my on IOS Resume Apps
  
+ Start up all app ideas that cross my mind!
+ 
 ---
 
-### 🌱  I’m currently learning... ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/study.jpeg)
+### :books:   I’m currently learning... ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/study.jpeg)
 
-I'd like to say everythinkg but is not true. 
+ I'd like to say everythinkg but is not true. 
 
-I'm starting things over and I'm definetely focus on IOS.
+ I'm starting things over and I'm definetely focus on IOS.
 
-[<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>]()
-[<img src="https://img.icons8.com/color/48/000000/xcode.png"/>]()
+ [<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>]()
+ [<img src="https://img.icons8.com/color/48/000000/xcode.png"/>]()
 
 ---
 
-### 👯  I’m looking to collaborate on ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/think.jpeg)
+### :beers:  I’m looking to collaborate on ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/think.jpeg)
 
-Any project!
+ Any project!
 
-I'd like to help in any project related with IOS.
+ I'd like to help in any project related with IOS.
 
 ---
 <!-- ### 🤔 I’m looking for help with .. -->
@@ -51,21 +51,34 @@ I'd like to help in any project related with IOS.
 -->
 
 
-### ⚡ Fun fact: ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/fun2.jpeg)
+### :video_game: Fun fact: ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/fun2.jpeg)
 
 This year I had finish my third Technical Certificate 
+
  * Multiplatform Software Development Certificate (2012 - 2014)
  * Web Develoment Certificate (2015)
  * Network Administration (2018 - 2020)
  
-As final project to conclude my certification, I had built:
+I conclude all theses certificates in Spain.
+These are official qualifications adapted from The Royal Decrees to the model proposed by European Higher Education Area
+
+As final project to conclude my certifications, I built:
+
  * A C written billing app - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/FacturacionPlus.zip)
  * A Android game that I called Rodrik's Cube - [Donwload APK](https://github.com/rodri2d2/rodri2d2/blob/master/proyectoAndroid.apk)
  * A web store made with "vanilla" PHP, JavaScript, HTML5, CSS and Boostrap  - [Download source code](https://github.com/rodri2d2/rodri2d2/blob/master/onlineStore.zip)
  * A webserver on a Rapsberry Pi  -  :innocent: Oops---dont have link for this one. Ask me and I will show you the whole project!
 
+I have woked as:
+ 
+ * Android and IOS developer
+ * Php developer
+ * Helpdesk,  installing and commissioning 
+ * Java Spring Jr Developer
 
-I currently speak 4 languages :gb:  :es:  :fr: 🤔 hummm... theres no brazilian portuguese emoji?
+I currently speak 4 languages:
+
+ * :gb:  :es:  :fr: 🤔 hummm... theres no brazilian portuguese emoji?
 
 I like photos and sometimes I do shot some. [Checkout my 500px profile](https://500px.com/p/rodrigoadelinocandido)
 
