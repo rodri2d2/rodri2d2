@@ -72,13 +72,13 @@ As final project to conclude my certifications, I built:
 I have woked as:
  
  * Android and IOS developer
- * Php developer
+ * PHP developer
  * Helpdesk,  installing and commissioning 
  * Java Spring Jr Developer
 
 I currently speak 4 languages:
 
- * :gb:  :es:  :fr: 🤔 hummm... theres no brazilian portuguese emoji?
+ * :gb:  :es:  :fr: 🤔 hummm... theres no brazilian flag emoji?
 
 I like photos and sometimes I do shot some. [Checkout my 500px profile](https://500px.com/p/rodrigoadelinocandido)
 
