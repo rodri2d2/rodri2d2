@@ -97,6 +97,7 @@ My favorite sport is paragliding. [Checkout my Instagram profile](https://www.in
 [<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>](https://swift.org/)
 [<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>](https://www.php.net/manual/es/intro-whatis.php)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://docs.oracle.com/en/java/)
 [<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://www.w3schools.com/html/)
 [<img src="https://img.icons8.com/color/48/000000/css3.png"/>](https://www.w3schools.com/css/default.asp)
@@ -109,7 +110,6 @@ My favorite sport is paragliding. [Checkout my Instagram profile](https://www.in
 [<img src="https://img.icons8.com/officel/40/000000/mac-os.png"/>](https://support.apple.com/es-us/guide/mac-help/welcome/mac)
 [<img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>](https://www.kali.org/)
 [<img src="https://img.icons8.com/color/48/000000/linux.png"/>](https://www.debian.org/index.es.html)
-[<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
 
 
 
