@@ -104,13 +104,12 @@ My favorite sport is paragliding. [Checkout my Instagram profile](https://www.in
 [<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>](https://www.mysql.com/)
 [<img src="https://img.icons8.com/color/48/000000/xcode.png"/>](https://developer.apple.com/xcode/)
 [<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
-[<img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>](https://developer.android.com/studio)
 [<img src="https://img.icons8.com/officel/40/000000/java-eclipse.png"/>](https://www.eclipse.org/ide/)
-[<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>](https://support.microsoft.com/es-es/office/aprendizaje-de-excel-para-windows-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+[<img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>](https://developer.android.com/studio)
 [<img src="https://img.icons8.com/officel/40/000000/mac-os.png"/>](https://support.apple.com/es-us/guide/mac-help/welcome/mac)
 [<img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>](https://www.kali.org/)
 [<img src="https://img.icons8.com/color/48/000000/linux.png"/>](https://www.debian.org/index.es.html)
-
+[<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>](https://support.microsoft.com/es-es/office/aprendizaje-de-excel-para-windows-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 
 [1.1]: https://img.icons8.com/ios/48/000000/linkedin.png
