@@ -109,6 +109,7 @@ My favorite sport is paragliding. [Checkout my Instagram profile](https://www.in
 [<img src="https://img.icons8.com/officel/40/000000/mac-os.png"/>](https://support.apple.com/es-us/guide/mac-help/welcome/mac)
 [<img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>](https://www.kali.org/)
 [<img src="https://img.icons8.com/color/48/000000/linux.png"/>](https://www.debian.org/index.es.html)
+[<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
 
 
 
