@@ -80,7 +80,7 @@ I have woked as:
 
 I currently speak 4 languages:
 
- * :gb:  :es:  :fr: 🤔 hummm... theres no brazilian flag emoji?
+ * :gb:  :es:  :fr: :brazil:
  
 If you meet me face to face, you will see that this face emoji is the real(like) me!
 
