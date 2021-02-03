@@ -2,8 +2,8 @@
 
 ## Hi! I'm Rodri! ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/hi%20.jpeg)
 </em></p>
-[![Linkedin: Rodrigo Candido](https://img.shields.io/badge/-Rodrigo Candido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodricandido/)](https://www.linkedin.com/in/rodricandido/)
-[![GitHub Rodri](https://img.shields.io/github/followers/rodri?label=follow&style=social)](https://github.com/rodri2d2)
+[![Linkedin: Rodrigo Candido](https://img.shields.io/badge/-Rodrigo%20C%C3%A2ndido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodricandido/)](https://www.linkedin.com/in/rodricandido/)
+[![GitHub Rodri](https://img.shields.io/github/followers/rodri2d2?label=follow&style=social)](https://github.com/rodri2d2)
 
 
 
