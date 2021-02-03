@@ -31,9 +31,9 @@ However, I'd like to focus on mobile development.*
 
 ### :books:   I’m currently learning... ![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/study.jpeg)
 
- I'd like to say everythinkg but is not true. 
+ I'm try to improve my skills on mobile dev and be a more specialised.
 
- I'm starting things over and I'm definetely focus on IOS.
+ I'm starting things over and I'm definetely focused on IOS. I'm really enjoying my new experiences on KeepCoding BootCamp.
 
  [<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>]()
  [<img src="https://img.icons8.com/color/48/000000/xcode.png"/>]()
@@ -42,9 +42,10 @@ However, I'd like to focus on mobile development.*
 
 ### :beers:  I’m looking to collaborate on ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/think.jpeg)
 
- Any project!
-
- I'd like to help in any project related with IOS.
+ I would like to help Start Up or any kind of ideas as iOS developer. 
+ 
+ 
+ And why not as Full Mobile Dev. 
 
 ---
 <!-- ### 🤔 I’m looking for help with .. -->
@@ -117,6 +118,6 @@ My favorite sport is paragliding. [Checkout my Instagram profile](https://www.in
 [<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>](https://support.microsoft.com/es-es/office/aprendizaje-de-excel-para-windows-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 
-[1.1]: https://img.icons8.com/ios/48/000000/linkedin.png
-[2.1]: https://img.icons8.com/ios/48/000000/instagram-new.png
-[3.1]: https://img.icons8.com/ios/48/000000/500px-new.png
+
+[2.1]: https://img.icons8.com/fluent/48/000000/instagram-new.png
+[3.1]: https://img.icons8.com/color/48/000000/500px-new.png
