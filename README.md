@@ -12,7 +12,7 @@ After finish my first Technical Certificate, I started work as Android and IOS d
 But now, I am going back to my roots. Of course I'm not closed to different views and job opportunities. 
 However, I'd like to focus on mobile development.*
 
-[![alt text][1.1]](https://www.linkedin.com/in/rodricandido)
+
 [![alt text][2.1]](https://www.instagram.com/rodri2d2/)
 [![alt text][3.1]](https://500px.com/p/rodrigoadelinocandido)
 
