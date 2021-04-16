@@ -59,7 +59,7 @@ However, I'd like to focus on mobile development.*
 
 ### :video_game: Fun fact: ...![](https://raw.githubusercontent.com/rodri2d2/rodri2d2/master/fun2.jpeg)
 
-In 2021 I had finish my third Technical Certificate 
+In 2020 I had finish my third Technical Certificate 
 
  * Multiplatform Software Development Certificate (2012 - 2014)
  * Web Develoment Certificate (2015)
